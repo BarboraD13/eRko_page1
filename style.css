@@ -10,9 +10,20 @@ img {
 }
 body {background-color:rgb(241, 221, 182) }
 nav {
+    font-size: 25px;   
+}
+h1 {
+    color:rgb(35, 118, 212);
+    position: relative; left: 530px; top: 2px; 
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+img {
+    position:relative; left: 550px; top: 2px;
+    size-adjust: 10px;
+}
+body {background-color:rgb(241, 221, 182) }
+nav {
     font-size: 25px;
     
-}
-button {
-   background-color:rgb(230, 141, 8);
 }
