@@ -1,0 +1,58 @@
+.header_flex
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-right: 8px;
+    margin-left: 8px;
+}
+.dlhe-pole
+{
+    font-family: 'Garamond', cursive;
+    font-size: 400%;
+}
+.c
+{
+    font-family: 'Garamond', cursive;
+    font-size: 100%;
+}
+.kont
+{
+    text-align: center; 
+    font-family: 'Times New Roman', cursive;
+    font-size: 155%;
+}
+
+
+body
+{
+    background-color: #ffffff7a;
+    margin: 0;
+}
+header
+{
+    background-color: #ffffff9a;
+}
+.navig_flex
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-right: 8px;
+    margin-left: 8px;
+}
+nav
+{
+    background-color: yellow;
+    border-bottom: 3px solid black;
+}
+.lista
+{
+    font-family: 'Times New Roman', cursive;
+    font-size: 155%;
+}
+footer
+{
+    background-color: #9286868f;
+    margin: 0px;
+}
